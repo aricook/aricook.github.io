@@ -1,0 +1,24 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352.081 477.89">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-1 {
+        stroke: #000;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <title>aa3d65aa-5830-48ee-b2b2-a908be96042d</title>
+  <g>
+    <line class="cls-1" x1="348.041" y1="2.945" x2="176.041" y2="238.945"/>
+    <line class="cls-2" x1="176.041" y1="238.945" x2="4.041" y2="474.945"/>
+  </g>
+</svg>
