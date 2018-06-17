@@ -128,7 +128,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 		</style>
 		<div id="overlaypass" class="formLogin">
 			<form>
-			<h1>To view my case studies please enter the password below. If you don't know the secret password, just drop me email! </h1>
+			<h1>To view my case studies please enter the password below. If you don't know the secret password, just drop me an email! </h1>
 				<input type="password" id="pass">
 				<input type="submit" id="botonlogin" value="Unlock the goods">
 				<p style="margin-top: 30px;"><span id='err'></span></p>								
@@ -924,7 +924,7 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 		<script>
 		$( "#botonlogin" ).click(function(e) {
 		  if ($("#pass").val() == 'Viewcasestudies') { e.preventDefault(); $('#overlaypass').hide(); $('.formLogin').hide(); }
-		  else  { e.preventDefault(); $('#err').replaceWith("<span id='err'>Bum Bummm. Wrong password! </span>"); } 
+		  else  { e.preventDefault(); $('#err').replaceWith("<span id='err'>Wrong password! awkward.</span>"); } 
 		});
 		</script>
 
