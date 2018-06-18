@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aricook.github.io/index.html</loc>
-    <lastmod>2018-06-17</lastmod>
+    <lastmod>2018-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -90,7 +90,25 @@
       <image:loc>http://aricook.github.io/images/white-background484x4025.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/black-background491x871.jpg</image:loc>
+      <image:loc>http://aricook.github.io/images/black-background491x730.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/a-v2158x175.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background341x3120.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background341x615.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/np_code_1102599_ffffff309x202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/np_card-sorting_229075_ffffff313x205.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/profile%20pic%20copy199x200.jpg</image:loc>
     </image:image>
   </url>
   <url>
