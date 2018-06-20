@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aricook.github.io" resolutions="1x" timestamp="1529502329328">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aricook.github.io" resolutions="1x" timestamp="1529503275364">
   <folder name="css">
     <file name="site_global.css" crc="4089533032"/>
     <file name="master_a-master.css" crc="424082292" ref="cases:canon-capture:fox-sports:vivid-website:western-sydney-university:cabcharge-plus:resume:tourism-australia:contact:vivid:index"/>
@@ -15,8 +15,8 @@
     <file name="nomq_western-sydney-university.css" crc="489338198" ref="western-sydney-university"/>
     <file name="cabcharge-plus.css" crc="249660428" ref="cabcharge-plus"/>
     <file name="nomq_cabcharge-plus.css" crc="514537955" ref="cabcharge-plus"/>
-    <file name="resume.css" crc="346676064" ref="resume"/>
-    <file name="nomq_resume.css" crc="4097785837" ref="resume"/>
+    <file name="resume.css" crc="4061882906" ref="resume"/>
+    <file name="nomq_resume.css" crc="4049813087" ref="resume"/>
     <file name="tourism-australia.css" crc="43787617" ref="tourism-australia"/>
     <file name="nomq_tourism-australia.css" crc="3798323912" ref="tourism-australia"/>
     <file name="contact.css" crc="333814425" ref="contact"/>
@@ -1467,7 +1467,7 @@
   </folder>
   <file name="cases.html" crc="444169729" seo="true" mt="1529209153549" redirect="true"/>
   <file name="fox-sports.html" crc="4038141737" seo="true" mt="1529202143675" redirect="true"/>
-  <file name="resume.html" crc="3857171134" seo="true" mt="1529502026089" redirect="true"/>
+  <file name="resume.html" crc="4106790990" seo="true" mt="1529502937308" redirect="true"/>
   <file name="cabcharge-plus.html" crc="3987889589" seo="true" mt="1529202168324" redirect="true"/>
   <file name="contact.html" crc="114579932" seo="true" mt="1529202290459" redirect="true"/>
   <file name="western-sydney-university.html" crc="3854823841" seo="true" mt="1529202203962" redirect="true"/>
