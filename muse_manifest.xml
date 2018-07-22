@@ -1,30 +1,30 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aricook.github.io" resolutions="1x" timestamp="1531187706682">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aricook.github.io" resolutions="1x" timestamp="1532248619234">
   <folder name="css">
     <file name="site_global.css" crc="4132064812"/>
-    <file name="master_a-master.css" crc="4277077456" ref="canon-capture:vivid-website:cabcharge-plus:index:contact:fox-sports:cases:tourism-australia:western-sydney-university:resume:vivid"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="canon-capture:vivid-website:cabcharge-plus:index:contact:fox-sports:cases:tourism-australia:western-sydney-university:resume:vivid"/>
-    <file name="canon-capture.css" crc="423239025" ref="canon-capture"/>
-    <file name="nomq_canon-capture.css" crc="279457181" ref="canon-capture"/>
-    <file name="vivid-website.css" crc="3900237867" ref="vivid-website"/>
-    <file name="nomq_vivid-website.css" crc="49838137" ref="vivid-website"/>
-    <file name="cabcharge-plus.css" crc="313338519" ref="cabcharge-plus"/>
+    <file name="master_a-master.css" crc="3814418709" ref="cabcharge-plus:resume:western-sydney-university:fox-sports:contact:tourism-australia:index:cases:canon-capture:vivid:vivid-website"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="cabcharge-plus:resume:western-sydney-university:fox-sports:contact:tourism-australia:index:cases:canon-capture:vivid:vivid-website"/>
+    <file name="cabcharge-plus.css" crc="465594521" ref="cabcharge-plus"/>
     <file name="nomq_cabcharge-plus.css" crc="514537955" ref="cabcharge-plus"/>
-    <file name="index.css" crc="167615837" ref="index"/>
-    <file name="nomq_index.css" crc="4113271176" ref="index"/>
-    <file name="contact.css" crc="3897687898" ref="contact"/>
-    <file name="nomq_contact.css" crc="254770105" ref="contact"/>
-    <file name="fox-sports.css" crc="458159547" ref="fox-sports"/>
-    <file name="nomq_fox-sports.css" crc="3837218564" ref="fox-sports"/>
-    <file name="cases.css" crc="4177143021" ref="cases"/>
-    <file name="nomq_cases.css" crc="4244504408" ref="cases"/>
-    <file name="tourism-australia.css" crc="427701396" ref="tourism-australia"/>
-    <file name="nomq_tourism-australia.css" crc="472279590" ref="tourism-australia"/>
-    <file name="western-sydney-university.css" crc="199189081" ref="western-sydney-university"/>
+    <file name="resume.css" crc="38933415" ref="resume"/>
+    <file name="nomq_resume.css" crc="3839951811" ref="resume"/>
+    <file name="western-sydney-university.css" crc="389318087" ref="western-sydney-university"/>
     <file name="nomq_western-sydney-university.css" crc="489338198" ref="western-sydney-university"/>
-    <file name="resume.css" crc="3856754392" ref="resume"/>
-    <file name="nomq_resume.css" crc="4049813087" ref="resume"/>
-    <file name="vivid.css" crc="4151562004" ref="vivid"/>
+    <file name="fox-sports.css" crc="121558237" ref="fox-sports"/>
+    <file name="nomq_fox-sports.css" crc="3837218564" ref="fox-sports"/>
+    <file name="contact.css" crc="3906718289" ref="contact"/>
+    <file name="nomq_contact.css" crc="254770105" ref="contact"/>
+    <file name="tourism-australia.css" crc="211058901" ref="tourism-australia"/>
+    <file name="nomq_tourism-australia.css" crc="3944250924" ref="tourism-australia"/>
+    <file name="index.css" crc="3916683858" ref="index"/>
+    <file name="nomq_index.css" crc="267858843" ref="index"/>
+    <file name="cases.css" crc="4016570442" ref="cases"/>
+    <file name="nomq_cases.css" crc="193549623" ref="cases"/>
+    <file name="canon-capture.css" crc="232504360" ref="canon-capture"/>
+    <file name="nomq_canon-capture.css" crc="279457181" ref="canon-capture"/>
+    <file name="vivid.css" crc="429343318" ref="vivid"/>
     <file name="nomq_vivid.css" crc="303127038" ref="vivid"/>
+    <file name="vivid-website.css" crc="3957175404" ref="vivid-website"/>
+    <file name="nomq_vivid-website.css" crc="49838137" ref="vivid-website"/>
   </folder>
   <folder name="assets">
     <file name="asset-3.svg" crc="323679711" seo="true" mt="1524291851000"/>
@@ -56,44 +56,44 @@
   <folder name="images">
     <file name="favicon.ico" crc="4173031967" ref="cases"/>
     <file name="black-background.jpg" crc="3931478333" seo="true" ref="cases:resume:vivid:tourism-australia:canon-capture:vivid-website:index">
-      <caption webpage="canon-capture" alt=""/>
-      <caption webpage="canon-capture" alt=""/>
-      <caption webpage="canon-capture" alt=""/>
-      <caption webpage="canon-capture" alt=""/>
-      <caption webpage="vivid" alt=""/>
-      <caption webpage="vivid" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="vivid-website" alt=""/>
+      <caption webpage="vivid-website" alt=""/>
+      <caption webpage="vivid-website" alt=""/>
+      <caption webpage="vivid-website" alt=""/>
+      <caption webpage="vivid-website" alt=""/>
+      <caption webpage="vivid-website" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
       <caption webpage="cases" alt=""/>
       <caption webpage="cases" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="canon-capture" alt=""/>
+      <caption webpage="canon-capture" alt=""/>
+      <caption webpage="canon-capture" alt=""/>
+      <caption webpage="canon-capture" alt=""/>
       <caption webpage="resume" alt=""/>
       <caption webpage="resume" alt=""/>
-      <caption webpage="vivid-website" alt=""/>
-      <caption webpage="vivid-website" alt=""/>
-      <caption webpage="vivid-website" alt=""/>
-      <caption webpage="vivid-website" alt=""/>
-      <caption webpage="vivid-website" alt=""/>
-      <caption webpage="vivid-website" alt=""/>
+      <caption webpage="vivid" alt=""/>
+      <caption webpage="vivid" alt=""/>
     </file>
     <file name="white-background.jpg" crc="4092538855" seo="true" ref="cases:contact:canon-capture:index">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="cases" alt=""/>
       <caption webpage="canon-capture" alt=""/>
       <caption webpage="canon-capture" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
     </file>
     <file name="white-background-crop-u29346.jpg" crc="390029777" seo="true" ref="cases">
       <caption webpage="cases" alt=""/>
@@ -106,31 +106,31 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="cases:fox-sports:resume:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index"/>
     <file name="pasted-svg-7941x61.svg" crc="15898402" seo="true" ref="cases:western-sydney-university:tourism-australia:canon-capture">
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="canon-capture" alt=""/>
-      <caption webpage="canon-capture" alt=""/>
-      <caption webpage="canon-capture" alt=""/>
-      <caption webpage="canon-capture" alt=""/>
       <caption webpage="western-sydney-university" alt=""/>
       <caption webpage="western-sydney-university" alt=""/>
       <caption webpage="western-sydney-university" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="canon-capture" alt=""/>
+      <caption webpage="canon-capture" alt=""/>
+      <caption webpage="canon-capture" alt=""/>
+      <caption webpage="canon-capture" alt=""/>
     </file>
     <file name="pasted svg 7941x61_poster_.png" crc="3809763659" ref="cases"/>
     <file name="logo_1956.png" crc="437391351" seo="true" ref="cases">
@@ -183,25 +183,25 @@
     <file name="u18599-4.png" crc="486870018" ref="cases"/>
     <file name="back-u46023-fr.png" crc="4096984585" ref="cases:fox-sports:cabcharge-plus:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website"/>
     <file name="stroke-2.svg" crc="4199963938" seo="true" ref="cases:fox-sports:cabcharge-plus:tourism-australia:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="fox-sports" alt=""/>
-      <caption webpage="fox-sports" alt=""/>
-      <caption webpage="fox-sports" alt=""/>
-      <caption webpage="fox-sports" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
-      <caption webpage="cases" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="cases" alt=""/>
+      <caption webpage="fox-sports" alt=""/>
+      <caption webpage="fox-sports" alt=""/>
+      <caption webpage="fox-sports" alt=""/>
+      <caption webpage="fox-sports" alt=""/>
       <caption webpage="cabcharge-plus" alt=""/>
       <caption webpage="cabcharge-plus" alt=""/>
       <caption webpage="cabcharge-plus" alt=""/>
@@ -258,12 +258,12 @@
       <caption webpage="fox-sports" alt=""/>
     </file>
     <file name="vector smart object.png" crc="212630409" seo="true" ref="fox-sports:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="fox-sports" alt=""/>
       <caption webpage="fox-sports" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="bw-image-crop-u29478.jpg" crc="183933421" seo="true" ref="fox-sports">
       <caption webpage="fox-sports" alt=""/>
@@ -374,6 +374,13 @@
       <caption webpage="resume" alt=""/>
       <caption webpage="resume" alt=""/>
     </file>
+    <file name="np_website_781173_ffffff.svg" crc="4177892353" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="np_website_781173_ffffff_poster_.png" crc="30116945" ref="resume"/>
     <file name="white-background-crop-u499942.jpg" crc="295403772" seo="true" ref="resume">
       <caption webpage="resume" alt=""/>
     </file>
@@ -1033,13 +1040,13 @@
       <caption webpage="tourism-australia" alt=""/>
     </file>
     <file name="layer 6.png" crc="3996783222" seo="true" ref="tourism-australia:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="experiance map-1.png" crc="4249247968" seo="true" ref="tourism-australia">
       <caption webpage="tourism-australia" alt=""/>
@@ -1129,10 +1136,10 @@
       <caption webpage="canon-capture" alt=""/>
       <caption webpage="canon-capture" alt=""/>
     </file>
-    <file name="canon-capture-icon-2-crop-u32904.png" crc="285295838" seo="true" ref="canon-capture">
+    <file name="canon-capture-icon-2-crop-u32904.png" crc="3909232994" seo="true" ref="canon-capture">
       <caption webpage="canon-capture" alt=""/>
     </file>
-    <file name="canon-capture-icon-crop-u32912.png" crc="3865670689" seo="true" ref="canon-capture">
+    <file name="canon-capture-icon-crop-u32912.png" crc="4205846134" seo="true" ref="canon-capture">
       <caption webpage="canon-capture" alt=""/>
     </file>
     <file name="wireframe.jpg" crc="477503787" seo="true" ref="canon-capture">
@@ -1147,10 +1154,10 @@
     <file name="white-background-crop-u327872.jpg" crc="3939417900" seo="true" ref="canon-capture">
       <caption webpage="canon-capture" alt=""/>
     </file>
-    <file name="canon-capture-icon-2-crop-u329042.png" crc="4027163682" seo="true" ref="canon-capture">
+    <file name="canon-capture-icon-2-crop-u329042.png" crc="63269645" seo="true" ref="canon-capture">
       <caption webpage="canon-capture" alt=""/>
     </file>
-    <file name="canon-capture-icon-crop-u329122.png" crc="3763693894" seo="true" ref="canon-capture">
+    <file name="canon-capture-icon-crop-u329122.png" crc="3945225940" seo="true" ref="canon-capture">
       <caption webpage="canon-capture" alt=""/>
     </file>
     <file name="white-background-crop-u327873.jpg" crc="279993927" seo="true" ref="canon-capture">
@@ -1261,7 +1268,7 @@
     <file name="user-journey-2-crop-u335883.jpg" crc="441826635" seo="true" ref="vivid-website">
       <caption webpage="vivid-website" alt=""/>
     </file>
-    <file name="screen shot 2015-06-02 at 54030 pm-crop-u337203.jpg" crc="4245188941" seo="true" ref="vivid-website">
+    <file name="screen shot 2015-06-02 at 54030 pm-crop-u337203.jpg" crc="4188990359" seo="true" ref="vivid-website">
       <caption webpage="vivid-website" alt=""/>
     </file>
     <file name="white-background-crop-u450774.jpg" crc="132136754" seo="true" ref="vivid-website">
@@ -1465,15 +1472,15 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="cases.html" crc="378656925" seo="true" mt="1529209153549" redirect="true"/>
-  <file name="fox-sports.html" crc="285834717" seo="true" mt="1529202143675" redirect="true"/>
-  <file name="resume.html" crc="3831479679" seo="true" mt="1529502937308" redirect="true"/>
-  <file name="cabcharge-plus.html" crc="3822647864" seo="true" mt="1529202168324" redirect="true"/>
-  <file name="contact.html" crc="451853036" seo="true" mt="1529202290459" redirect="true"/>
-  <file name="western-sydney-university.html" crc="296133587" seo="true" mt="1529202203962" redirect="true"/>
-  <file name="vivid.html" crc="47078429" seo="true" mt="1529202224565" redirect="true"/>
-  <file name="tourism-australia.html" crc="4290523698" seo="true" mt="1529202275272" redirect="true"/>
-  <file name="canon-capture.html" crc="503264130" seo="true" mt="1529202243294" redirect="true"/>
-  <file name="vivid-website.html" crc="4073967733" seo="true" mt="1529202259032" redirect="true"/>
-  <file name="index.html" crc="291107143" seo="true" mt="1531187451391" redirect="true"/>
+  <file name="cases.html" crc="14610056" seo="true" mt="1532246475369" redirect="true"/>
+  <file name="fox-sports.html" crc="4147587786" seo="true" mt="1529202143675" redirect="true"/>
+  <file name="resume.html" crc="3855845985" seo="true" mt="1532248298850" redirect="true"/>
+  <file name="cabcharge-plus.html" crc="336616388" seo="true" mt="1529202168324" redirect="true"/>
+  <file name="contact.html" crc="3962956069" seo="true" mt="1529202290459" redirect="true"/>
+  <file name="western-sydney-university.html" crc="388720602" seo="true" mt="1529202203962" redirect="true"/>
+  <file name="vivid.html" crc="532985917" seo="true" mt="1529202224565" redirect="true"/>
+  <file name="tourism-australia.html" crc="261363090" seo="true" mt="1529202275272" redirect="true"/>
+  <file name="canon-capture.html" crc="4077078825" seo="true" mt="1529202243294" redirect="true"/>
+  <file name="vivid-website.html" crc="299930959" seo="true" mt="1529202259032" redirect="true"/>
+  <file name="index.html" crc="4046449918" seo="true" mt="1531187451391" redirect="true"/>
 </manifest>

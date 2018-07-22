@@ -116,7 +116,7 @@
   </url>
   <url>
     <loc>http://aricook.github.io/cases.html</loc>
-    <lastmod>2018-06-17</lastmod>
+    <lastmod>2018-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1070,7 +1070,7 @@
   </url>
   <url>
     <loc>http://aricook.github.io/resume.html</loc>
-    <lastmod>2018-06-20</lastmod>
+    <lastmod>2018-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1105,6 +1105,9 @@
     </image:image>
     <image:image>
       <image:loc>http://aricook.github.io/images/black%20-%20white%2012.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/np_website_781173_ffffff.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://aricook.github.io/images/white-background-crop-u499942.jpg</image:loc>
