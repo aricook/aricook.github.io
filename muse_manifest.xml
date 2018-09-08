@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aricook.github.io" resolutions="1x" timestamp="1536399213699">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aricook.github.io" resolutions="1x" timestamp="1536400939886">
   <folder name="css">
     <file name="site_global.css" crc="4132064812"/>
     <file name="master_a-master.css" crc="4102532880" ref="cabcharge-plus:canon-capture:western-sydney-university:resume:vivid-website:vivid:fox-sports:index:cases:tourism-australia:contact:13cabs"/>
