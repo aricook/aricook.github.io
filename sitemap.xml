@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aricook.github.io/index.html</loc>
-    <lastmod>2018-09-28</lastmod>
+    <lastmod>2019-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,6 +19,9 @@
     </image:image>
     <image:image>
       <image:loc>http://aricook.github.io/images/vector%20smart%20object2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/%E2%80%9C.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://aricook.github.io/images/profile%20pic%20copy.jpg</image:loc>
@@ -40,9 +43,6 @@
     </image:image>
     <image:image>
       <image:loc>http://aricook.github.io/images/shape%207%20copy.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/%E2%80%9C2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://aricook.github.io/images/shape%206.jpg</image:loc>
@@ -130,128 +130,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aricook.github.io/vivid-website.html</loc>
-    <lastmod>2018-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/stroke-1.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u33494.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/canon-mock-up-.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/site-map.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-journey-1--crop-u33578.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-journey-2-crop-u33588.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u45077.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/screen%20shot%202015-06-02%20at%2054030%20pm-crop-u33720.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u450772.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u334942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-journey-1--crop-u335782.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-journey-2-crop-u335882.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/screen%20shot%202015-06-02%20at%2054030%20pm-crop-u337202.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u450773.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u334943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background963x800.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/canon-mock-up-570x386.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-journey-1--crop-u335783.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-journey-2-crop-u335883.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/screen%20shot%202015-06-02%20at%2054030%20pm-crop-u337203.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u450774.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/screen%20shot%202015-06-02%20at%2054030%20pm-crop-u337204.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u334944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background721x882.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/canon-mock-up-557x377.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/site-map413x283.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-journey-1--crop-u335784.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-journey-2-crop-u335884.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u450775.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u334945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background482x887.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background481x1667.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/canon-mock-up-509x345.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/site-map275x189.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-journey-1--crop-u335785.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-journey-2-crop-u335885.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/screen%20shot%202015-06-02%20at%2054030%20pm-crop-u337205.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://aricook.github.io/13cabs.html</loc>
-    <lastmod>2018-09-28</lastmod>
+    <lastmod>2019-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1102,8 +982,173 @@
     </image:image>
   </url>
   <url>
+    <loc>http://aricook.github.io/articles.html</loc>
+    <lastmod>2019-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/pasted-svg-7941x61.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/stroke-2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u103698.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u103419.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/ux-agile.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u1036982.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u1034192.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/ux-agile588x294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u1036983.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u1034193.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/ux-agile552x276.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u1036984.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u1034194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/ux-agile453x227.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u1036985.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u1034195.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/ux-agile403x202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u1036986.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u1034196.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/ux-agile315x158.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aricook.github.io/canon-capture.html</loc>
+    <lastmod>2019-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/pasted-svg-7941x61.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/stroke-1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u32787.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/hexagon_canon-capture.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/canon-capture-icon-2-crop-u32904.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/canon-capture-icon-crop-u32912.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/wireframe.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user%20journey%20-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u327872.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/canon-capture-icon-2-crop-u329042.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/canon-capture-icon-crop-u329122.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background1022x852.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u327873.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background780x891.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background780x1044.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/hexagon_canon-capture406x527.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/canon-capture-icon-2-crop-u329043.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/canon-capture-icon-crop-u329123.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user%20journey%20-01684x479.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background778x930.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/wireframe355x476.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u327874.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background480x1080.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/hexagon_canon-capture424x551.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/canon-capture-icon-2-crop-u329044.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/canon-capture-icon-crop-u329124.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background482x881.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user%20journey%20-01389x272.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background479x1415.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://aricook.github.io/tourism-australia.html</loc>
-    <lastmod>2018-06-17</lastmod>
+    <lastmod>2019-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1210,8 +1255,257 @@
     </image:image>
   </url>
   <url>
+    <loc>http://aricook.github.io/vivid-website.html</loc>
+    <lastmod>2019-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/stroke-1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u33494.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/canon-mock-up-.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/site-map.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-journey-1--crop-u33578.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-journey-2-crop-u33588.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u45077.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/screen%20shot%202015-06-02%20at%2054030%20pm-crop-u33720.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u450772.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u334942.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-journey-1--crop-u335782.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-journey-2-crop-u335882.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/screen%20shot%202015-06-02%20at%2054030%20pm-crop-u337202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u450773.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u334943.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background963x800.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/canon-mock-up-570x386.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-journey-1--crop-u335783.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-journey-2-crop-u335883.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/screen%20shot%202015-06-02%20at%2054030%20pm-crop-u337203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u450774.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/screen%20shot%202015-06-02%20at%2054030%20pm-crop-u337204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u334944.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background721x882.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/canon-mock-up-557x377.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/site-map413x283.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-journey-1--crop-u335784.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-journey-2-crop-u335884.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u450775.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u334945.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background482x887.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background481x1667.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/canon-mock-up-509x345.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/site-map275x189.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-journey-1--crop-u335785.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-journey-2-crop-u335885.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/screen%20shot%202015-06-02%20at%2054030%20pm-crop-u337205.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aricook.github.io/western-sydney-university.html</loc>
+    <lastmod>2019-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/pasted-svg-7941x61.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/stroke-1.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u30165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u30210.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u30163.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u30187.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/wsu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/hovering%20screens%20.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-workshop-crop-u30303.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/features.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/layer%2011.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/during%20event%20site%20map.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/post%20event%20sitemap.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u301652.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u302102.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background971x1653.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u301872.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/wsu835x572.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/hovering%20screens%20638x808.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-workshop962x602.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u301653.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background465x1887.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u301873.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/wsu-crop-u27553.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/user-workshop486x304.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/features225x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u302103.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/hovering%20screens%20434x550.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aricook.github.io/contact.html</loc>
+    <lastmod>2019-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/profile%20pic%20copy157x158.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/profile%20pic%20copy154x155.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/profile%20pic%20copy128x129.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background721x978.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/profile%20pic%20copy121x121.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background480x1164.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/profile%20pic%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background375x1139.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/profile%20pic%20copy133x134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background960x1028.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://aricook.github.io/vivid.html</loc>
-    <lastmod>2018-06-17</lastmod>
+    <lastmod>2019-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1252,8 +1546,86 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aricook.github.io/canon-capture.html</loc>
-    <lastmod>2018-06-17</lastmod>
+    <loc>http://aricook.github.io/fox-sports.html</loc>
+    <lastmod>2019-03-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/stroke-2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/fox-sports-desktop-(2).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/fox-sports-desktop-(2)492x696.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/fox-sports-desktop-(2)495x700.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u107446.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u107450.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/bw-image-crop-u107444.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u107448.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/fox-sports-hand-crop-u107485.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u1074462.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u1074502.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/bw-image-crop-u1074442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u1074482.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/fox-sports-hand-crop-u1074852.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u1074463.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u1074503.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/bw-image-crop-u1074443.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u1074483.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/fox-sports-hand-crop-u1074853.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/bw-image-crop-u1074444.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u1074464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u1074484.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u1074504.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/fox-sports-hand-crop-u1074854.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aricook.github.io/cases.html</loc>
+    <lastmod>2019-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1263,135 +1635,66 @@
       <image:loc>http://aricook.github.io/images/white-background.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u29346.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aricook.github.io/images/fox-sports.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://aricook.github.io/images/pasted-svg-7941x61.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/stroke-1.svg</image:loc>
+      <image:loc>http://aricook.github.io/images/black%20-%20white%202.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u32787.jpg</image:loc>
+      <image:loc>http://aricook.github.io/images/logo_1956.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/hexagon_canon-capture.png</image:loc>
+      <image:loc>http://aricook.github.io/images/wsu-shield.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/canon-capture-icon-2-crop-u32904.png</image:loc>
+      <image:loc>http://aricook.github.io/images/pasted-svg-7941x612.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/canon-capture-icon-crop-u32912.png</image:loc>
+      <image:loc>http://aricook.github.io/images/3ce673c6e313c3780dec04f6a4e0868f.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/wireframe.jpg</image:loc>
+      <image:loc>http://aricook.github.io/images/tourism-australia.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/user%20journey%20-01.jpg</image:loc>
+      <image:loc>http://aricook.github.io/images/stroke-2.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u327872.jpg</image:loc>
+      <image:loc>http://aricook.github.io/images/a-v267x74.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/canon-capture-icon-2-crop-u329042.png</image:loc>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u29320.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/canon-capture-icon-crop-u329122.png</image:loc>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u29333.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/white-background1022x852.jpg</image:loc>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u293462.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u327873.jpg</image:loc>
+      <image:loc>http://aricook.github.io/images/black-background-crop-u293202.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/black-background780x891.jpg</image:loc>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u293332.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/black-background780x1044.jpg</image:loc>
+      <image:loc>http://aricook.github.io/images/white-background-crop-u293463.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/hexagon_canon-capture406x527.png</image:loc>
+      <image:loc>http://aricook.github.io/images/white-background480x1233.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aricook.github.io/images/canon-capture-icon-2-crop-u329043.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/canon-capture-icon-crop-u329123.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user%20journey%20-01684x479.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background778x930.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/wireframe355x476.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u327874.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background480x1080.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/hexagon_canon-capture424x551.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/canon-capture-icon-2-crop-u329044.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/canon-capture-icon-crop-u329124.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background482x881.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user%20journey%20-01389x272.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background479x1415.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://aricook.github.io/contact.html</loc>
-    <lastmod>2018-09-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/profile%20pic%20copy157x158.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/profile%20pic%20copy154x155.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background960x888.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/profile%20pic%20copy128x129.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background721x978.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/profile%20pic%20copy121x121.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background480x1164.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/profile%20pic%20copy.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background375x1139.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/profile%20pic%20copy133x134.jpg</image:loc>
+      <image:loc>http://aricook.github.io/images/white-background481x1046.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://aricook.github.io/cabcharge-plus.html</loc>
-    <lastmod>2018-06-17</lastmod>
+    <lastmod>2019-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1711,333 +2014,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aricook.github.io/western-sydney-university.html</loc>
-    <lastmod>2018-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/pasted-svg-7941x61.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/stroke-1.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u30165.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u30210.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u30163.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u30187.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/wsu.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/hovering%20screens%20.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-workshop-crop-u30303.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/features.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/layer%2011.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/during%20event%20site%20map.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/post%20event%20sitemap.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u301652.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u302102.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background971x1653.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u301872.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/wsu835x572.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/hovering%20screens%20638x808.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-workshop962x602.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u301653.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background465x1887.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u301873.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/wsu-crop-u27553.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/user-workshop486x304.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/features225x161.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u302103.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/hovering%20screens%20434x550.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://aricook.github.io/fox-sports.html</loc>
-    <lastmod>2018-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/stroke-2.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u29382.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u29395.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/fox-sports-desktop-(2).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/vector%20smart%20object.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/bw-image-crop-u29478.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u29456.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/fox-sports-hand-crop-u29432.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u293822.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u293952.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/bw-image-crop-u294782.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u294562.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/fox-sports-hand-crop-u294322.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u293823.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u293953.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/fox-sports-desktop-(2)492x696.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/bw-image-crop-u294783.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u294563.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/fox-sports-hand-crop-u294323.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/bw-image-crop-u294784.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u293824.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u294564.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u293954.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/fox-sports-desktop-(2)495x700.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/fox-sports-hand-crop-u294324.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://aricook.github.io/cases.html</loc>
-    <lastmod>2018-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u29346.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/fox-sports.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/pasted-svg-7941x61.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black%20-%20white%202.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/logo_1956.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/wsu-shield.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/pasted-svg-7941x612.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/3ce673c6e313c3780dec04f6a4e0868f.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/tourism-australia.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/stroke-2.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/a-v267x74.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u29320.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u29333.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u293462.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background-crop-u293202.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u293332.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u293463.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background480x1233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background481x1046.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://aricook.github.io/resume.html</loc>
-    <lastmod>2018-09-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u49994.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/a-v271x79.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/a-v259x65.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/np_phone_880088_000000.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/np_mail_1058930_000000.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/af-think-crop-u56120.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/havascreative_b-w-crop-u56150.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black%20-%20white%201.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black%20-%20white%2012.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/np_website_781173_ffffff.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u499942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/a-v248x53.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/af-think-crop-u561202.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/havascreative_b-w-crop-u561502.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u499943.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/a-v246x53.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background805x1230.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/af-think.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/havascreative_b-w.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u499944.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/a-v2134x149.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/a-v247x54.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background536x1357.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/white-background-crop-u499945.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aricook.github.io/images/black-background536x1810.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://aricook.github.io/assets/menu-close.svg</loc>
     <lastmod>2018-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -2045,13 +2021,13 @@
   </url>
   <url>
     <loc>http://aricook.github.io/assets/v4.4-booking--personal-(logged-in-now-booking).mp4</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aricook.github.io/assets/guest-flow-v4.mp4</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2111,7 +2087,7 @@
   </url>
   <url>
     <loc>http://aricook.github.io/assets/screen-shot-2018-09-04-at-1.45.29-pm.png</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2123,7 +2099,7 @@
   </url>
   <url>
     <loc>http://aricook.github.io/assets/screen-shot-2018-09-04-at-1.45.44-pm.png</loc>
-    <lastmod>2018-09-04</lastmod>
+    <lastmod>2018-09-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

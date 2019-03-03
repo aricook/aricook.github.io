@@ -1,32 +1,32 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aricook.github.io" resolutions="1x" timestamp="1538108399948">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aricook.github.io" resolutions="1x" timestamp="1551610685321">
   <folder name="css">
     <file name="site_global.css" crc="4132064812"/>
-    <file name="master_a-master.css" crc="3996528169" ref="cases:index:cabcharge-plus:western-sydney-university:vivid-website:fox-sports:contact:13cabs:canon-capture:resume:vivid:tourism-australia"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="cases:index:cabcharge-plus:western-sydney-university:vivid-website:fox-sports:contact:13cabs:canon-capture:resume:vivid:tourism-australia"/>
-    <file name="cases.css" crc="400889368" ref="cases"/>
-    <file name="nomq_cases.css" crc="4150854139" ref="cases"/>
-    <file name="index.css" crc="4240786354" ref="index"/>
-    <file name="nomq_index.css" crc="503847136" ref="index"/>
-    <file name="cabcharge-plus.css" crc="53734495" ref="cabcharge-plus"/>
-    <file name="nomq_cabcharge-plus.css" crc="3870146566" ref="cabcharge-plus"/>
-    <file name="western-sydney-university.css" crc="3828648426" ref="western-sydney-university"/>
-    <file name="nomq_western-sydney-university.css" crc="3848948465" ref="western-sydney-university"/>
-    <file name="vivid-website.css" crc="4053780001" ref="vivid-website"/>
+    <file name="master_a-master.css" crc="497250222" ref="cases:index:cabcharge-plus:western-sydney-university:vivid-website:fox-sports:contact:13cabs:canon-capture:vivid:tourism-australia:articles"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="cases:index:cabcharge-plus:western-sydney-university:vivid-website:fox-sports:contact:13cabs:canon-capture:vivid:tourism-australia:articles"/>
+    <file name="cases.css" crc="154503541" ref="cases"/>
+    <file name="nomq_cases.css" crc="460484914" ref="cases"/>
+    <file name="index.css" crc="3968854949" ref="index"/>
+    <file name="nomq_index.css" crc="259136171" ref="index"/>
+    <file name="cabcharge-plus.css" crc="4190177475" ref="cabcharge-plus"/>
+    <file name="nomq_cabcharge-plus.css" crc="4103932941" ref="cabcharge-plus"/>
+    <file name="western-sydney-university.css" crc="4187424116" ref="western-sydney-university"/>
+    <file name="nomq_western-sydney-university.css" crc="15038765" ref="western-sydney-university"/>
+    <file name="vivid-website.css" crc="92793483" ref="vivid-website"/>
     <file name="nomq_vivid-website.css" crc="3956288906" ref="vivid-website"/>
-    <file name="fox-sports.css" crc="4037539457" ref="fox-sports"/>
-    <file name="nomq_fox-sports.css" crc="515579391" ref="fox-sports"/>
-    <file name="contact.css" crc="4197282132" ref="contact"/>
-    <file name="nomq_contact.css" crc="97658872" ref="contact"/>
-    <file name="13cabs.css" crc="3931846577" ref="13cabs"/>
-    <file name="nomq_13cabs.css" crc="4188332657" ref="13cabs"/>
-    <file name="canon-capture.css" crc="3934092846" ref="canon-capture"/>
+    <file name="fox-sports.css" crc="441345299" ref="fox-sports"/>
+    <file name="nomq_fox-sports.css" crc="328661812" ref="fox-sports"/>
+    <file name="contact.css" crc="3973724007" ref="contact"/>
+    <file name="nomq_contact.css" crc="253657661" ref="contact"/>
+    <file name="13cabs.css" crc="231526752" ref="13cabs"/>
+    <file name="nomq_13cabs.css" crc="69917962" ref="13cabs"/>
+    <file name="canon-capture.css" crc="3798395217" ref="canon-capture"/>
     <file name="nomq_canon-capture.css" crc="4264647100" ref="canon-capture"/>
-    <file name="resume.css" crc="4213166786" ref="resume"/>
-    <file name="nomq_resume.css" crc="308582980" ref="resume"/>
-    <file name="vivid.css" crc="3783025785" ref="vivid"/>
+    <file name="vivid.css" crc="4079035912" ref="vivid"/>
     <file name="nomq_vivid.css" crc="221656049" ref="vivid"/>
-    <file name="tourism-australia.css" crc="80477813" ref="tourism-australia"/>
-    <file name="nomq_tourism-australia.css" crc="4143339726" ref="tourism-australia"/>
+    <file name="tourism-australia.css" crc="176576562" ref="tourism-australia"/>
+    <file name="nomq_tourism-australia.css" crc="38282717" ref="tourism-australia"/>
+    <file name="articles.css" crc="4096766088" ref="articles"/>
+    <file name="nomq_articles.css" crc="207664601" ref="articles"/>
   </folder>
   <folder name="assets">
     <file name="asset-3.svg" crc="323679711" seo="true" mt="1524291851000"/>
@@ -40,19 +40,19 @@
     <file name="e9vzkddprwqwjdro.mp4" crc="195467516" seo="true" mt="1527568992000"/>
     <file name="marketing-vid-cover.png" crc="178098636" seo="true" mt="1527570014000"/>
     <file name="menu-close.svg" crc="26278471" seo="true" mt="1528878968000"/>
-    <file name="v4.4-booking--personal-(logged-in-now-booking).mp4" crc="4154903870" seo="true" mt="1536027941000"/>
-    <file name="screen-shot-2018-09-04-at-1.45.29-pm.png" crc="335431957" seo="true" mt="1536032738000"/>
-    <file name="screen-shot-2018-09-04-at-1.45.44-pm.png" crc="393088930" seo="true" mt="1536032749000"/>
-    <file name="guest-flow-v4.mp4" crc="4089646196" seo="true" mt="1536028464000"/>
+    <file name="v4.4-booking--personal-(logged-in-now-booking).mp4" crc="4154903870" seo="true" mt="1538108405000"/>
+    <file name="screen-shot-2018-09-04-at-1.45.29-pm.png" crc="335431957" seo="true" mt="1538108405000"/>
+    <file name="screen-shot-2018-09-04-at-1.45.44-pm.png" crc="393088930" seo="true" mt="1538108405000"/>
+    <file name="guest-flow-v4.mp4" crc="4089646196" seo="true" mt="1538108405000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="cases:fox-sports:resume:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs"/>
-    <file name="museutils.js" crc="340535759" ref="cases:fox-sports:resume:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs"/>
-    <file name="whatinput.js" crc="86476730" ref="cases:fox-sports:resume:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs"/>
-    <file name="museconfig.js" crc="310584261" ref="cases:fox-sports:resume:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="cases:fox-sports:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs:articles"/>
+    <file name="museutils.js" crc="340535759" ref="cases:fox-sports:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs:articles"/>
+    <file name="whatinput.js" crc="86476730" ref="cases:fox-sports:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs:articles"/>
+    <file name="museconfig.js" crc="310584261" ref="cases:fox-sports:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs:articles"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="cases:fox-sports:cabcharge-plus:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:13cabs"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="cases:fox-sports:resume:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs"/>
-    <file name="require.js" crc="7928878" ref="cases:fox-sports:resume:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="cases:fox-sports:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs:articles"/>
+    <file name="require.js" crc="7928878" ref="cases:fox-sports:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs:articles"/>
     <file name="webpro.js" crc="4059564322" ref="western-sydney-university:tourism-australia:13cabs"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="western-sydney-university:tourism-australia:13cabs"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="western-sydney-university:tourism-australia:13cabs"/>
@@ -61,23 +61,7 @@
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4173031967" ref="cases"/>
-    <file name="black-background.jpg" crc="3931478333" seo="true" ref="cases:resume:vivid:tourism-australia:canon-capture:vivid-website:index">
-      <caption webpage="vivid" alt=""/>
-      <caption webpage="vivid" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="tourism-australia" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="black-background.jpg" crc="3931478333" seo="true" ref="cases:vivid:tourism-australia:canon-capture:vivid-website:index">
       <caption webpage="vivid-website" alt=""/>
       <caption webpage="vivid-website" alt=""/>
       <caption webpage="vivid-website" alt=""/>
@@ -90,11 +74,27 @@
       <caption webpage="canon-capture" alt=""/>
       <caption webpage="cases" alt=""/>
       <caption webpage="cases" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="vivid" alt=""/>
+      <caption webpage="vivid" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="tourism-australia" alt=""/>
     </file>
     <file name="white-background.jpg" crc="4173286661" seo="true" ref="cases:contact:canon-capture:index">
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="canon-capture" alt=""/>
       <caption webpage="cases" alt=""/>
     </file>
@@ -107,11 +107,17 @@
       <caption webpage="cases" alt=""/>
       <caption webpage="cases" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="cases:fox-sports:resume:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs"/>
-    <file name="pasted-svg-7941x61.svg" crc="15898402" seo="true" ref="cases:western-sydney-university:tourism-australia:canon-capture">
+    <file name="blank.gif" crc="4208392903" ref="cases:fox-sports:cabcharge-plus:contact:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:index:13cabs:articles"/>
+    <file name="pasted-svg-7941x61.svg" crc="15898402" seo="true" ref="cases:western-sydney-university:tourism-australia:canon-capture:articles">
       <caption webpage="western-sydney-university" alt=""/>
       <caption webpage="western-sydney-university" alt=""/>
       <caption webpage="western-sydney-university" alt=""/>
+      <caption webpage="articles" alt=""/>
+      <caption webpage="articles" alt=""/>
+      <caption webpage="articles" alt=""/>
+      <caption webpage="articles" alt=""/>
+      <caption webpage="articles" alt=""/>
+      <caption webpage="articles" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
@@ -196,7 +202,7 @@
     </file>
     <file name="u18599-4.png" crc="486870018" ref="cases"/>
     <file name="back-u46023-fr.png" crc="4096984585" ref="cases:fox-sports:cabcharge-plus:western-sydney-university:vivid:tourism-australia:canon-capture:vivid-website:13cabs"/>
-    <file name="stroke-2.svg" crc="4199963938" seo="true" ref="cases:fox-sports:cabcharge-plus:tourism-australia:index">
+    <file name="stroke-2.svg" crc="4199963938" seo="true" ref="cases:fox-sports:cabcharge-plus:tourism-australia:index:articles">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -204,9 +210,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="articles" alt=""/>
+      <caption webpage="articles" alt=""/>
+      <caption webpage="articles" alt=""/>
+      <caption webpage="articles" alt=""/>
+      <caption webpage="articles" alt=""/>
+      <caption webpage="articles" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
       <caption webpage="tourism-australia" alt=""/>
+      <caption webpage="cabcharge-plus" alt=""/>
+      <caption webpage="cabcharge-plus" alt=""/>
+      <caption webpage="cabcharge-plus" alt=""/>
+      <caption webpage="cabcharge-plus" alt=""/>
       <caption webpage="cases" alt=""/>
       <caption webpage="cases" alt=""/>
       <caption webpage="cases" alt=""/>
@@ -217,13 +233,15 @@
       <caption webpage="fox-sports" alt=""/>
       <caption webpage="fox-sports" alt=""/>
       <caption webpage="fox-sports" alt=""/>
-      <caption webpage="cabcharge-plus" alt=""/>
-      <caption webpage="cabcharge-plus" alt=""/>
-      <caption webpage="cabcharge-plus" alt=""/>
-      <caption webpage="cabcharge-plus" alt=""/>
     </file>
     <file name="stroke 2_poster_.png" crc="60322875" ref="cases"/>
     <file name="a-v267x74.png" crc="4015280560" seo="true" ref="cases">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="cases" alt=""/>
       <caption webpage="cases" alt=""/>
       <caption webpage="cases" alt=""/>
@@ -262,197 +280,24 @@
     </file>
     <file name="u18599-44.png" crc="56975737" ref="cases"/>
     <file name="u18656-44.png" crc="275904483" ref="cases"/>
-    <file name="black-background-crop-u29382.jpg" crc="3947581455" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="white-background-crop-u29395.jpg" crc="13829531" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
     <file name="fox-sports-desktop-(2).png" crc="4210928798" seo="true" ref="fox-sports">
       <caption webpage="fox-sports" alt=""/>
       <caption webpage="fox-sports" alt=""/>
     </file>
-    <file name="vector smart object.png" crc="212630409" seo="true" ref="fox-sports:index">
+    <file name="vector smart object.png" crc="381667066" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="fox-sports" alt=""/>
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="bw-image-crop-u29478.jpg" crc="183933421" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="black-background-crop-u29456.jpg" crc="3801919543" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="fox-sports-hand-crop-u29432.png" crc="3769565317" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="black-background-crop-u293822.jpg" crc="3792802064" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="white-background-crop-u293952.jpg" crc="118920480" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="bw-image-crop-u294782.jpg" crc="13407197" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="black-background-crop-u294562.jpg" crc="3846068827" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="fox-sports-hand-crop-u294322.png" crc="191225446" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="black-background-crop-u293823.jpg" crc="371879818" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="white-background-crop-u293953.jpg" crc="420959296" seo="true" ref="fox-sports">
       <caption webpage="fox-sports" alt=""/>
     </file>
     <file name="fox-sports-desktop-(2)492x696.png" crc="3931042488" seo="true" ref="fox-sports">
       <caption webpage="fox-sports" alt=""/>
     </file>
-    <file name="bw-image-crop-u294783.jpg" crc="4252796642" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="black-background-crop-u294563.jpg" crc="4276939520" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="fox-sports-hand-crop-u294323.png" crc="4121071026" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="bw-image-crop-u294784.jpg" crc="75890915" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="black-background-crop-u293824.jpg" crc="3921209893" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="black-background-crop-u294564.jpg" crc="39446553" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="white-background-crop-u293954.jpg" crc="242822812" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
     <file name="fox-sports-desktop-(2)495x700.png" crc="4207241854" seo="true" ref="fox-sports">
       <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="fox-sports-hand-crop-u294324.png" crc="3839237785" seo="true" ref="fox-sports">
-      <caption webpage="fox-sports" alt=""/>
-    </file>
-    <file name="white-background-crop-u49994.jpg" crc="4142163086" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="a-v271x79.png" crc="476086953" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="a-v259x65.png" crc="139036701" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="np_phone_880088_000000.svg" crc="2268889" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="np_phone_880088_000000_poster_.png" crc="4119151441" ref="resume"/>
-    <file name="np_mail_1058930_000000.svg" crc="445884063" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="np_mail_1058930_000000_poster_.png" crc="4084056881" ref="resume"/>
-    <file name="logo.png" crc="322158743" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="af-think-crop-u56120.png" crc="4092088148" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="havascreative_b-w-crop-u56150.png" crc="463314174" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="black - white 1.png" crc="3832564175" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="black - white 12.png" crc="4050376648" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="np_website_781173_ffffff.svg" crc="4177892353" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="np_website_781173_ffffff_poster_.png" crc="30116945" ref="resume"/>
-    <file name="white-background-crop-u499942.jpg" crc="379321718" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="a-v248x53.png" crc="3887207648" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="af-think-crop-u561202.png" crc="4092088148" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="havascreative_b-w-crop-u561502.png" crc="463314174" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="white-background-crop-u499943.jpg" crc="261803910" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="a-v246x53.png" crc="489240049" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="black-background805x1230.jpg" crc="253876034" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="af-think.png" crc="3957695798" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="havascreative_b-w.png" crc="3794836190" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="white-background-crop-u499944.jpg" crc="132464127" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="a-v2134x149.png" crc="193881375" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="a-v247x54.png" crc="489240049" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="black-background536x1357.jpg" crc="74340445" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="white-background-crop-u499945.jpg" crc="507322996" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
-    </file>
-    <file name="black-background536x1810.jpg" crc="3931478333" seo="true" ref="resume">
-      <caption webpage="resume" alt=""/>
     </file>
     <file name="white-background-crop-u29765.jpg" crc="3781601362" seo="true" ref="cabcharge-plus">
       <caption webpage="cabcharge-plus" alt=""/>
@@ -563,7 +408,7 @@
     <file name="cabcharge-recovered.png" crc="3956741350" seo="true" ref="cabcharge-plus">
       <caption webpage="cabcharge-plus" alt=""/>
     </file>
-    <file name="vector smart object2.png" crc="3912008514" seo="true" ref="cabcharge-plus:index">
+    <file name="vector smart object2.png" crc="3763206080" seo="true" ref="cabcharge-plus:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -582,11 +427,31 @@
     <file name="black-background-crop-u29743.jpg" crc="4140976088" seo="true" ref="cabcharge-plus">
       <caption webpage="cabcharge-plus" alt=""/>
     </file>
-    <file name="“.png" crc="4181473748" seo="true" ref="cabcharge-plus">
+    <file name="“.png" crc="533106986" seo="true" ref="cabcharge-plus:index">
       <caption webpage="cabcharge-plus" alt=""/>
       <caption webpage="cabcharge-plus" alt=""/>
       <caption webpage="cabcharge-plus" alt=""/>
       <caption webpage="cabcharge-plus" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="np_think_1259421_000000.svg" crc="4122216993" seo="true" ref="cabcharge-plus">
       <caption webpage="cabcharge-plus" alt=""/>
@@ -635,19 +500,19 @@
       <caption webpage="cabcharge-plus" alt=""/>
     </file>
     <file name="stroke-1.svg" crc="3899738926" seo="true" ref="cabcharge-plus:western-sydney-university:canon-capture:vivid-website">
+      <caption webpage="vivid-website" alt=""/>
+      <caption webpage="vivid-website" alt=""/>
+      <caption webpage="vivid-website" alt=""/>
+      <caption webpage="vivid-website" alt=""/>
+      <caption webpage="vivid-website" alt=""/>
       <caption webpage="western-sydney-university" alt=""/>
       <caption webpage="western-sydney-university" alt=""/>
-      <caption webpage="vivid-website" alt=""/>
-      <caption webpage="vivid-website" alt=""/>
-      <caption webpage="vivid-website" alt=""/>
-      <caption webpage="vivid-website" alt=""/>
-      <caption webpage="vivid-website" alt=""/>
-      <caption webpage="canon-capture" alt=""/>
-      <caption webpage="canon-capture" alt=""/>
-      <caption webpage="canon-capture" alt=""/>
       <caption webpage="cabcharge-plus" alt=""/>
       <caption webpage="cabcharge-plus" alt=""/>
       <caption webpage="cabcharge-plus" alt=""/>
+      <caption webpage="canon-capture" alt=""/>
+      <caption webpage="canon-capture" alt=""/>
+      <caption webpage="canon-capture" alt=""/>
     </file>
     <file name="stroke 1_poster_.png" crc="4126426554" ref="cabcharge-plus"/>
     <file name="white-background-crop-u297652.jpg" crc="336707236" seo="true" ref="cabcharge-plus">
@@ -859,9 +724,6 @@
     </file>
     <file name="u36760.png" crc="4259825521" ref="contact"/>
     <file name="u36760-r.png" crc="4259825521" ref="contact"/>
-    <file name="white-background960x888.jpg" crc="445546914" seo="true" ref="contact">
-      <caption webpage="contact" alt=""/>
-    </file>
     <file name="profile pic copy128x129.jpg" crc="110058697" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
@@ -879,11 +741,11 @@
       <caption webpage="contact" alt=""/>
     </file>
     <file name="profile pic copy.jpg" crc="321411390" seo="true" ref="contact:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="u367604.png" crc="258325280" ref="contact"/>
     <file name="u36760-r4.png" crc="258325280" ref="contact"/>
@@ -949,13 +811,13 @@
       <caption webpage="western-sydney-university" alt=""/>
     </file>
     <file name="layer 11.png" crc="198471143" seo="true" ref="western-sydney-university:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="western-sydney-university" alt=""/>
       <caption webpage="western-sydney-university" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="during event site map.jpg" crc="3974831951" seo="true" ref="western-sydney-university">
       <caption webpage="western-sydney-university" alt=""/>
@@ -1020,7 +882,7 @@
     <file name="canon-mock-up-490x332.png" crc="218384278" seo="true" ref="vivid">
       <caption webpage="vivid" alt=""/>
     </file>
-    <file name="vector smart object3.png" crc="3763206080" seo="true" ref="vivid:index">
+    <file name="vector smart object3.png" crc="212630409" seo="true" ref="vivid:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1325,7 +1187,7 @@
     <file name="user-journey-2-crop-u335883.jpg" crc="441826635" seo="true" ref="vivid-website">
       <caption webpage="vivid-website" alt=""/>
     </file>
-    <file name="screen shot 2015-06-02 at 54030 pm-crop-u337203.jpg" crc="4245188941" seo="true" ref="vivid-website">
+    <file name="screen shot 2015-06-02 at 54030 pm-crop-u337203.jpg" crc="4188990359" seo="true" ref="vivid-website">
       <caption webpage="vivid-website" alt=""/>
     </file>
     <file name="white-background-crop-u450774.jpg" crc="137812405" seo="true" ref="vivid-website">
@@ -1395,28 +1257,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="“2.png" crc="533106986" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="shape 6.jpg" crc="4099382745" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1464,7 +1304,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="vector smart object4.png" crc="381667066" seo="true" ref="index">
+    <file name="vector smart object4.png" crc="3912008514" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1743,28 +1583,28 @@
     <file name="heatmap-2998746-click-phone-crop-u83962.jpg" crc="4234209668" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-08-31 at 111303 am-crop-u83886.jpg" crc="63758124" seo="true" ref="13cabs">
+    <file name="screen shot 2018-08-31 at 111303 am-crop-u83886.jpg" crc="3961459889" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 93441 am-crop-u83679.jpg" crc="3871243337" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 93441 am-crop-u83679.jpg" crc="89623959" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30523 pm-crop-u83742.jpg" crc="3771035093" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30523 pm-crop-u83742.jpg" crc="267847013" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30542 pm-crop-u83748.jpg" crc="4091059079" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30542 pm-crop-u83748.jpg" crc="239019543" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30458 pm-crop-u83744.jpg" crc="4082908784" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30458 pm-crop-u83744.jpg" crc="44443573" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30513 pm-crop-u83740.jpg" crc="3991020895" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30513 pm-crop-u83740.jpg" crc="299134158" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 94929 am-crop-u83746.jpg" crc="270875749" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 94929 am-crop-u83746.jpg" crc="42647567" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30609 pm-crop-u83750.jpg" crc="4235912288" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30609 pm-crop-u83750.jpg" crc="149974815" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
     <file name="white-background-crop-u838672.jpg" crc="222890312" seo="true" ref="13cabs">
@@ -1893,28 +1733,28 @@
     <file name="heatmap-2998746-click-phone-crop-u839622.jpg" crc="3809369669" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-08-31 at 111303 am-crop-u838862.jpg" crc="3984989287" seo="true" ref="13cabs">
+    <file name="screen shot 2018-08-31 at 111303 am-crop-u838862.jpg" crc="3772247570" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 93441 am-crop-u836792.jpg" crc="393367246" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 93441 am-crop-u836792.jpg" crc="232546430" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30523 pm-crop-u837422.jpg" crc="4224567503" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30523 pm-crop-u837422.jpg" crc="4066522299" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30542 pm-crop-u837482.jpg" crc="3802857391" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30542 pm-crop-u837482.jpg" crc="217643212" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30458 pm-crop-u837442.jpg" crc="3833029984" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30458 pm-crop-u837442.jpg" crc="4178046582" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30513 pm-crop-u837402.jpg" crc="3986440163" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30513 pm-crop-u837402.jpg" crc="417847429" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 94929 am-crop-u837462.jpg" crc="131606866" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 94929 am-crop-u837462.jpg" crc="69263401" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30609 pm-crop-u837502.jpg" crc="205751754" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30609 pm-crop-u837502.jpg" crc="422314417" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
     <file name="app screens presentation-crop-u839042.png" crc="427646059" seo="true" ref="13cabs">
@@ -2068,28 +1908,28 @@
     <file name="heatmap-2998746-click-phone-crop-u839623.jpg" crc="3760469805" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-08-31 at 111303 am-crop-u838863.jpg" crc="397616835" seo="true" ref="13cabs">
+    <file name="screen shot 2018-08-31 at 111303 am-crop-u838863.jpg" crc="99784342" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 93441 am-crop-u836793.jpg" crc="347065125" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 93441 am-crop-u836793.jpg" crc="173671347" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30523 pm-crop-u837423.jpg" crc="3860859614" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30523 pm-crop-u837423.jpg" crc="176421920" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30542 pm-crop-u837483.jpg" crc="53983181" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30542 pm-crop-u837483.jpg" crc="3883819780" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30458 pm-crop-u837443.jpg" crc="355817651" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30458 pm-crop-u837443.jpg" crc="4239549251" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30513 pm-crop-u837403.jpg" crc="53320018" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30513 pm-crop-u837403.jpg" crc="3763796262" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 94929 am-crop-u837463.jpg" crc="3942264984" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 94929 am-crop-u837463.jpg" crc="4222879717" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30609 pm-crop-u837503.jpg" crc="224588144" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30609 pm-crop-u837503.jpg" crc="3765977688" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
     <file name="app screens presentation-crop-u839043.png" crc="3916603480" seo="true" ref="13cabs">
@@ -2245,19 +2085,19 @@
     <file name="heatmap-2998746-click-phone-crop-u839624.jpg" crc="33014012" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30523 pm-crop-u837424.jpg" crc="4010041740" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30523 pm-crop-u837424.jpg" crc="27930861" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30542 pm-crop-u837484.jpg" crc="4262919064" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30542 pm-crop-u837484.jpg" crc="375476055" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30458 pm-crop-u837444.jpg" crc="4179229316" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30458 pm-crop-u837444.jpg" crc="329595066" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 94929 am-crop-u837464.jpg" crc="4023034930" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 94929 am-crop-u837464.jpg" crc="3759987366" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
-    <file name="screen shot 2018-09-03 at 30609 pm-crop-u837504.jpg" crc="3934737800" seo="true" ref="13cabs">
+    <file name="screen shot 2018-09-03 at 30609 pm-crop-u837504.jpg" crc="3822576465" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
     <file name="app screens presentation-crop-u839044.png" crc="4181940386" seo="true" ref="13cabs">
@@ -2428,17 +2268,134 @@
     <file name="”-crop-u836482.png" crc="88951135" seo="true" ref="13cabs">
       <caption webpage="13cabs" alt=""/>
     </file>
+    <file name="white-background960x1028.jpg" crc="20419571" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="white-background-crop-u103698.jpg" crc="302586453" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="black-background-crop-u103419.jpg" crc="342103628" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="ux-agile.jpg" crc="368904420" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="white-background-crop-u1036982.jpg" crc="4265054333" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="black-background-crop-u1034192.jpg" crc="3769214979" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="ux-agile588x294.jpg" crc="368904420" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="white-background-crop-u1036983.jpg" crc="3869638579" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="black-background-crop-u1034193.jpg" crc="4274687320" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="ux-agile552x276.jpg" crc="4068253680" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="white-background-crop-u1036984.jpg" crc="304524365" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="black-background-crop-u1034194.jpg" crc="4220708532" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="ux-agile453x227.jpg" crc="346144690" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="white-background-crop-u1036985.jpg" crc="3922339440" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="black-background-crop-u1034195.jpg" crc="489561182" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="ux-agile403x202.jpg" crc="429273372" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="white-background-crop-u1036986.jpg" crc="436282825" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="black-background-crop-u1034196.jpg" crc="4265834429" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="ux-agile315x158.jpg" crc="4065834198" seo="true" ref="articles">
+      <caption webpage="articles" alt=""/>
+    </file>
+    <file name="black-background-crop-u107446.jpg" crc="3947581455" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="white-background-crop-u107450.jpg" crc="13829531" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="bw-image-crop-u107444.jpg" crc="183933421" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="black-background-crop-u107448.jpg" crc="3801919543" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="fox-sports-hand-crop-u107485.png" crc="277466347" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="black-background-crop-u1074462.jpg" crc="3792802064" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="white-background-crop-u1074502.jpg" crc="118920480" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="bw-image-crop-u1074442.jpg" crc="13407197" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="black-background-crop-u1074482.jpg" crc="3846068827" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="fox-sports-hand-crop-u1074852.png" crc="3992909327" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="black-background-crop-u1074463.jpg" crc="371879818" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="white-background-crop-u1074503.jpg" crc="420959296" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="bw-image-crop-u1074443.jpg" crc="4252796642" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="black-background-crop-u1074483.jpg" crc="4276939520" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="fox-sports-hand-crop-u1074853.png" crc="22264818" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="bw-image-crop-u1074444.jpg" crc="75890915" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="black-background-crop-u1074464.jpg" crc="3921209893" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="black-background-crop-u1074484.jpg" crc="39446553" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="white-background-crop-u1074504.jpg" crc="242822812" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
+    <file name="fox-sports-hand-crop-u1074854.png" crc="3839237785" seo="true" ref="fox-sports">
+      <caption webpage="fox-sports" alt=""/>
+    </file>
   </folder>
-  <file name="cases.html" crc="4160316531" seo="true" mt="1538107822260" redirect="true"/>
-  <file name="fox-sports.html" crc="4015663894" seo="true" mt="1538107865243" redirect="true"/>
-  <file name="resume.html" crc="343727721" seo="true" mt="1538107852105" redirect="true"/>
-  <file name="cabcharge-plus.html" crc="90679612" seo="true" mt="1529202168324" redirect="true"/>
-  <file name="contact.html" crc="4212378376" seo="true" mt="1536398181941" redirect="true"/>
-  <file name="western-sydney-university.html" crc="190134556" seo="true" mt="1529202203962" redirect="true"/>
-  <file name="vivid.html" crc="4117498124" seo="true" mt="1529202224565" redirect="true"/>
-  <file name="tourism-australia.html" crc="3780121937" seo="true" mt="1529202275272" redirect="true"/>
-  <file name="canon-capture.html" crc="499924855" seo="true" mt="1529202243294" redirect="true"/>
-  <file name="vivid-website.html" crc="3936735857" seo="true" mt="1529202259032" redirect="true"/>
-  <file name="index.html" crc="3869878763" seo="true" mt="1538107811390" redirect="true"/>
-  <file name="13cabs.html" crc="326854148" seo="true" mt="1538108007651" redirect="true"/>
+  <file name="cases.html" crc="4247632113" seo="true" mt="1551609977857" redirect="true"/>
+  <file name="fox-sports.html" crc="4199397175" seo="true" mt="1551609960579" redirect="true"/>
+  <file name="cabcharge-plus.html" crc="4211250556" seo="true" mt="1551606723640" redirect="true"/>
+  <file name="contact.html" crc="4013799434" seo="true" mt="1551609884078" redirect="true"/>
+  <file name="western-sydney-university.html" crc="3974384649" seo="true" mt="1551606783023" redirect="true"/>
+  <file name="vivid.html" crc="76309566" seo="true" mt="1551606805523" redirect="true"/>
+  <file name="tourism-australia.html" crc="233222972" seo="true" mt="1551606874802" redirect="true"/>
+  <file name="canon-capture.html" crc="447850410" seo="true" mt="1551606847266" redirect="true"/>
+  <file name="vivid-website.html" crc="3869338072" seo="true" mt="1551606827887" redirect="true"/>
+  <file name="index.html" crc="249623590" seo="true" mt="1551607531150" redirect="true"/>
+  <file name="13cabs.html" crc="4286800330" seo="true" mt="1551606754635" redirect="true"/>
+  <file name="articles.html" crc="3983979868" seo="true" mt="1551610463046" redirect="true"/>
 </manifest>
