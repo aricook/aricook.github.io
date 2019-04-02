@@ -17,16 +17,126 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/favicon.ico?crc=4173031967"/>
   <title>fox sports</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4132064812"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=497250222"/>
-  <link rel="stylesheet" type="text/css" href="css/fox-sports.css?crc=441345299" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=98466197"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=204839549"/>
+  <link rel="stylesheet" type="text/css" href="css/fox-sports.css?crc=3940437408" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_fox-sports.css?crc=328661812" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_fox-sports.css?crc=3954531679" id="nomq_pagesheet"/>
   <![endif]-->
     <!--HTML Widget code-->
   
+		<style>
+		#overlaypass {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: #FFFFFF;
+			filter:alpha(opacity=50);
+			-moz-opacity:0.5;
+			-khtml-opacity: 0.5;
+			opacity: 1;
+			z-index: 9990000;
+			text-align:center;
+		}
+		.formLogin form{
+			width:95%;
+			max-width:250px;    
+			margin: 0 auto;	
+		}
+		.formLogin{
+			font: 95% Arial, Helvetica, sans-serif;
+			padding: 16px;
+			background: #F7F7F7;
+		}
+		.formLogin h1{
+			padding: 20px 0;
+			font-size: 140%;
+			font-weight: 300;
+			text-align: center;
+			color: #000000;
+		}
+		.formLogin input[type="text"],
+		.formLogin input[type="date"],
+		.formLogin input[type="datetime"],
+		.formLogin input[type="password"],
+		.formLogin input[type="number"],
+		.formLogin input[type="search"],
+		.formLogin input[type="time"],
+		.formLogin input[type="url"],
+		.formLogin textarea,
+		.formLogin select
+		{
+			-webkit-transition: all 0.30s ease-in-out;
+			-moz-transition: all 0.30s ease-in-out;
+			-ms-transition: all 0.30s ease-in-out;
+			-o-transition: all 0.30s ease-in-out;
+			outline: none;
+			box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			width: 100%;
+			background: #fff;
+			margin-bottom: 4%;
+			border: 1px solid #ccc;
+			padding: 3%;
+			color: #555;
+			font: 95% Arial, Helvetica, sans-serif;
+		}
+		.formLogin input[type="text"]:focus,
+		.formLogin input[type="date"]:focus,
+		.formLogin input[type="datetime"]:focus,
+		.formLogin input[type="password"]:focus,
+		.formLogin input[type="number"]:focus,
+		.formLogin input[type="search"]:focus,
+		.formLogin input[type="time"]:focus,
+		.formLogin input[type="url"]:focus,
+		.formLogin textarea:focus,
+		.formLogin select:focus
+		{
+			box-shadow: 0 0 5px #43D1AF;
+			padding: 3%;
+			border: 1px solid #43D1AF;
+		}
+		.formLogin input[type="submit"],
+		.formLogin input[type="button"]{
+			box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			width: 100%;
+			padding: 3%;
+			background: #000000;
+			border-bottom: 2px solid #000000;
+			border-top-style: none;
+			border-right-style: none;
+			border-left-style: none;   
+			color: #FFFFFF;
+		}
+		.formLogin input[type="submit"]:hover,
+		.formLogin input[type="button"]:hover{
+			background: #2EBC99;
+		}
+		#botonlogin, #pass{
+			font-size: 140%;	
+		}
+		#err{
+			color:#464646;
+		}
+		</style>
+		<div id="overlaypass" class="formLogin">
+			<form>
+			<h1>To view this case study please enter the password below. If you don't know the secret password, just drop me an email at hello@ariellecook.net</h1>
+				<input type="password" id="pass">
+				<input type="submit" id="botonlogin" value="View the case study">
+				<p style="margin-top: 30px;"><span id='err'></span></p>								
+				<div style='width:100%; text-align:center;font-size:10px;'><a target='_blank' href='http://responsive-muse.com/' title='Responsive Muse Widgets and Templates'>Powered by responsive-muse</a></div>				
+			</form>
+		</div>
+		
+
     <style>
       body #page .computer{opacity:0;visibility:hidden}body #page .computer.mt-scroll-slide-top,body #page .computer.mt-scroll-slide-right,body #page .computer.mt-scroll-slide-bottom,body #page .computer.mt-scroll-slide-left{transition:opacity 400ms ease,visibility 400ms ease,-webkit-transform 400ms ease;transition:transform 400ms ease,opacity 400ms ease,visibility 400ms ease;transition:transform 400ms ease,opacity 400ms ease,visibility 400ms ease,-webkit-transform 400ms ease}body #page .computer.mt-scroll-slide-top.mt-scroll-show,body #page .computer.mt-scroll-slide-right.mt-scroll-show,body #page .computer.mt-scroll-slide-bottom.mt-scroll-show,body #page .computer.mt-scroll-slide-left.mt-scroll-show{opacity:1;visibility:visible}body #page .computer.mt-scroll-slide-top.mt-scroll-hide,body #page .computer.mt-scroll-slide-right.mt-scroll-hide,body #page .computer.mt-scroll-slide-bottom.mt-scroll-hide,body #page .computer.mt-scroll-slide-left.mt-scroll-hide{opacity:0;visibility:hidden}body #page .computer.mt-scroll-slide-top.mt-scroll-show{-webkit-transform:translateY(0%);-ms-transform:translateY(0%);transform:translateY(0%)}body #page .computer.mt-scroll-slide-top.mt-scroll-hide{-webkit-transform:translateY(-100%);-ms-transform:translateY(-100%);transform:translateY(-100%)}body #page .computer.mt-scroll-slide-right.mt-scroll-show{-webkit-transform:translateX(0%);-ms-transform:translateX(0%);transform:translateX(0%)}body #page .computer.mt-scroll-slide-right.mt-scroll-hide{-webkit-transform:translateX(100%);-ms-transform:translateX(100%);transform:translateX(100%)}body #page .computer.mt-scroll-slide-bottom.mt-scroll-show{-webkit-transform:translateY(0%);-ms-transform:translateY(0%);transform:translateY(0%)}body #page .computer.mt-scroll-slide-bottom.mt-scroll-hide{-webkit-transform:translateY(100%);-ms-transform:translateY(100%);transform:translateY(100%)}body #page .computer.mt-scroll-slide-left.mt-scroll-show{-webkit-transform:translateX(0%);-ms-transform:translateX(0%);transform:translateX(0%)}body #page .computer.mt-scroll-slide-left.mt-scroll-hide{-webkit-transform:translateX(-100%);-ms-transform:translateX(-100%);transform:translateX(-100%)}body #page .computer.mt-scroll-fade{transition:opacity 400ms ease,visibility 400ms ease}body #page .computer.mt-scroll-fade.mt-scroll-show{opacity:1;visibility:visible}body #page .computer.mt-scroll-fade.mt-scroll-hide{opacity:0;visibility:hidden}
 
@@ -167,13 +277,15 @@ transform-origin: center;
 
   <div class="breakpoint active" id="bp_infinity" data-min-width="1025"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox" id="page"><!-- group -->
-    <div class="clearfix grpelem shared_content" id="pu107481" data-content-guid="pu107481_content"><!-- column -->
-     <div class="size_fixed colelem" id="u107481" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
+    <div class="clearfix grpelem" id="pu108148"><!-- column -->
+     <div class="size_fixed colelem shared_content" id="u108148" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u108148_content"><!-- custom html -->
+     </div>
+     <div class="size_fixed colelem shared_content" id="u107481" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-content-guid="u107481_content"><!-- custom html -->
       
       
     
      </div>
-     <div class="size_fixed colelem" id="u107482" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- custom html -->
+     <div class="size_fixed colelem shared_content" id="u107482" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u107482_content"><!-- custom html -->
       
 
      </div>
@@ -340,7 +452,11 @@ transform-origin: center;
   </div>
   <div class="breakpoint" id="bp_1024" data-min-width="721" data-max-width="1024"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <span class="clearfix grpelem placeholder" data-placeholder-for="pu107481_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem" id="pu107481"><!-- column -->
+     <span class="size_fixed colelem placeholder" data-placeholder-for="u107481_content"><!-- placeholder node --></span>
+     <span class="size_fixed colelem placeholder" data-placeholder-for="u107482_content"><!-- placeholder node --></span>
+    </div>
+    <span class="size_fixed grpelem placeholder" data-placeholder-for="u108148_content"><!-- placeholder node --></span>
     <div class="clearfix grpelem" id="pppu107492"><!-- column -->
      <div class="clearfix colelem" id="ppu107492"><!-- group -->
       <div class="clearfix grpelem" id="pu107492"><!-- column -->
@@ -410,7 +526,11 @@ transform-origin: center;
   </div>
   <div class="breakpoint" id="bp_720" data-min-width="481" data-max-width="720"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <span class="clearfix grpelem placeholder" data-placeholder-for="pu107481_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu107481"><!-- column -->
+     <span class="size_fixed colelem placeholder" data-placeholder-for="u107481_content"><!-- placeholder node --></span>
+     <span class="size_fixed colelem placeholder" data-placeholder-for="u107482_content"><!-- placeholder node --></span>
+    </div>
+    <span class="size_fixed grpelem placeholder" data-placeholder-for="u108148_content"><!-- placeholder node --></span>
     <div class="clearfix grpelem temp_no_id" data-orig-id="pppu107492"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="ppu107492"><!-- group -->
       <div class="clearfix grpelem temp_no_id" data-orig-id="pu107492"><!-- column -->
@@ -480,7 +600,10 @@ transform-origin: center;
   </div>
   <div class="breakpoint" id="bp_480" data-max-width="480"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
-    <span class="clearfix grpelem placeholder" data-placeholder-for="pu107481_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pu107481"><!-- column -->
+     <span class="size_fixed colelem placeholder" data-placeholder-for="u107481_content"><!-- placeholder node --></span>
+     <span class="size_fixed colelem placeholder" data-placeholder-for="u107482_content"><!-- placeholder node --></span>
+    </div>
     <div class="clearfix grpelem" id="ppu107444"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu107444"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u107444"><!-- image -->
@@ -534,6 +657,7 @@ transform-origin: center;
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u107490"><!-- svg -->
        <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/stroke-2.svg?crc=4199963938" onload="this.style.height=(this.offsetWidth*164.0282695109004/152.73430962343096)+'px'" alt="" data-mu-svgfallback="images/stroke%202_poster_.png?crc=60322875" data-heightwidthratio="1.0718954248366013" data-image-width="153" data-image-height="164" data-orig-id="u107491" src="images/blank.gif?crc=4208392903"/>
       </div>
+      <span class="size_fixed grpelem placeholder" data-placeholder-for="u108148_content"><!-- placeholder node --></span>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="pu37238_content"><!-- placeholder node --></span>
     </div>
@@ -679,7 +803,14 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   <script src="scripts/require.js?crc=7928878" type="text/javascript" async data-main="scripts/museconfig.js?crc=310584261" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
   
   <!--HTML Widget code-->
-  
+  	
+		<script>
+		$( "#botonlogin" ).click(function(e) {
+		  if ($("#pass").val() == 'ViewFoxSports') { e.preventDefault(); $('#overlaypass').hide(); $('.formLogin').hide(); }
+		  else  { e.preventDefault(); $('#err').replaceWith("<span id='err'>Wrong password! awkward.</span>"); } 
+		});
+		</script>
+
     <script>
       console.log("Scroll Reveal (1.1) - MuseThemes");
       /*!

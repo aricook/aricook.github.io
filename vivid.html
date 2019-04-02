@@ -17,16 +17,126 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/favicon.ico?crc=4173031967"/>
   <title>Vivid</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4132064812"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=497250222"/>
-  <link rel="stylesheet" type="text/css" href="css/vivid.css?crc=4079035912" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=98466197"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=204839549"/>
+  <link rel="stylesheet" type="text/css" href="css/vivid.css?crc=4125919876" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_vivid.css?crc=221656049" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_vivid.css?crc=358780470" id="nomq_pagesheet"/>
   <![endif]-->
     <!--HTML Widget code-->
   
+		<style>
+		#overlaypass {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: #FFFFFF;
+			filter:alpha(opacity=50);
+			-moz-opacity:0.5;
+			-khtml-opacity: 0.5;
+			opacity: 1;
+			z-index: 9990000;
+			text-align:center;
+		}
+		.formLogin form{
+			width:95%;
+			max-width:250px;    
+			margin: 0 auto;	
+		}
+		.formLogin{
+			font: 95% Arial, Helvetica, sans-serif;
+			padding: 16px;
+			background: #F7F7F7;
+		}
+		.formLogin h1{
+			padding: 20px 0;
+			font-size: 140%;
+			font-weight: 300;
+			text-align: center;
+			color: #000000;
+		}
+		.formLogin input[type="text"],
+		.formLogin input[type="date"],
+		.formLogin input[type="datetime"],
+		.formLogin input[type="password"],
+		.formLogin input[type="number"],
+		.formLogin input[type="search"],
+		.formLogin input[type="time"],
+		.formLogin input[type="url"],
+		.formLogin textarea,
+		.formLogin select
+		{
+			-webkit-transition: all 0.30s ease-in-out;
+			-moz-transition: all 0.30s ease-in-out;
+			-ms-transition: all 0.30s ease-in-out;
+			-o-transition: all 0.30s ease-in-out;
+			outline: none;
+			box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			width: 100%;
+			background: #fff;
+			margin-bottom: 4%;
+			border: 1px solid #ccc;
+			padding: 3%;
+			color: #555;
+			font: 95% Arial, Helvetica, sans-serif;
+		}
+		.formLogin input[type="text"]:focus,
+		.formLogin input[type="date"]:focus,
+		.formLogin input[type="datetime"]:focus,
+		.formLogin input[type="password"]:focus,
+		.formLogin input[type="number"]:focus,
+		.formLogin input[type="search"]:focus,
+		.formLogin input[type="time"]:focus,
+		.formLogin input[type="url"]:focus,
+		.formLogin textarea:focus,
+		.formLogin select:focus
+		{
+			box-shadow: 0 0 5px #43D1AF;
+			padding: 3%;
+			border: 1px solid #43D1AF;
+		}
+		.formLogin input[type="submit"],
+		.formLogin input[type="button"]{
+			box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			width: 100%;
+			padding: 3%;
+			background: #000000;
+			border-bottom: 2px solid #000000;
+			border-top-style: none;
+			border-right-style: none;
+			border-left-style: none;   
+			color: #FFFFFF;
+		}
+		.formLogin input[type="submit"]:hover,
+		.formLogin input[type="button"]:hover{
+			background: #2EBC99;
+		}
+		#botonlogin, #pass{
+			font-size: 140%;	
+		}
+		#err{
+			color:#464646;
+		}
+		</style>
+		<div id="overlaypass" class="formLogin">
+			<form>
+			<h1>To view this case study please enter the password below. If you don't know the secret password, just drop me an email at hello@ariellecook.net</h1>
+				<input type="password" id="pass">
+				<input type="submit" id="botonlogin" value="View the case study">
+				<p style="margin-top: 30px;"><span id='err'></span></p>								
+				<div style='width:100%; text-align:center;font-size:10px;'><a target='_blank' href='http://responsive-muse.com/' title='Responsive Muse Widgets and Templates'>Powered by responsive-muse</a></div>				
+			</form>
+		</div>
+		
+
 <style>
 .buttonopen{position:absolute;top:0;width:100%;height:100%;background:none;background-image:url(assets/asset-3.svg);background-size:contain;background-repeat:no-repeat;background-position:center;cursor:pointer;cursor:url(Add File),auto}.overlay{position:fixed;width:100%;height:100%;top:0;left:0;background:rgba(255,255,255,0.9)}.overlay .overlay-close{width:50px;height:50px;position:absolute;right:20px;top:20px;overflow:hidden;border:none;background:none;background-image:url(assets/menu-close.svg);background-size:contain;background-repeat:no-repeat;background-position:center;outline:none;cursor:pointer;cursor:url(Add File),auto;z-index:100}.btnctr{right:50%!important;margin-top:calc(50px/-2);margin-right:calc(50px/-2)}.overlay nav{text-align:center;position:relative;top:50%;height:60%;font-size:54px;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.overlay ul{list-style:none;padding:0;margin:0 auto;display:inline-block;font-size:50px;height:90%;position:relative}.overlay ul li{display:block;height:calc(100% /4);min-height:50px}.overlay ul li{letter-spacing:0px}.overlay ul li a{display:block;color:#000000;font-family:inherit;font-weight:600;font-style:normal;text-transform:none;text-decoration:none;outline:none;cursor:pointer;cursor:url(Add File),auto}.overlay ul li a:hover,.overlay ul li a:focus{color:#7F7F7F;text-decoration:overline}.overlay-cornershape{background:transparent;visibility:hidden;-webkit-transition:visibility 0s 0.5s;transition:visibility 0s 0.5s}.overlay-cornershape.open{visibility:visible;-webkit-transition:none;transition:none}.overlay-cornershape svg{position:absolute;top:0;left:0}.overlay-cornershape .overlay-path{fill:rgba(255,255,255,0.9)}.overlay-cornershape nav,.overlay-cornershape .overlay-close{opacity:0;-webkit-transition:opacity 0.4s 0.4s;transition:opacity 0.4s 0.4s}.overlay-cornershape.open nav,.overlay-cornershape.open .overlay-close{opacity:1;-webkit-transition-delay:0.4s;transition-delay:0.4s}.overlay-cornershape.close nav,.overlay-cornershape.close .overlay-close{-webkit-transition-delay:0s;transition-delay:0s}@media screen and (max-height:30.5em){.overlay nav{height:70%;font-size:34px}.overlay ul li{min-height:34px}}@media (max-width:480px){.overlay ul{font-size:32px}}
 </style>
@@ -58,6 +168,8 @@ transform-origin: center;
 
   <div class="breakpoint active" id="bp_infinity" data-min-width="1025"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox" id="page"><!-- group -->
+    <div class="size_fixed grpelem shared_content" id="u108367" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u108367_content"><!-- custom html -->
+    </div>
     <div class="clearfix grpelem" id="ppu31663"><!-- column -->
      <div class="clearfix colelem" id="pu31663"><!-- group -->
       <div class="clip_frame grpelem" id="u31663" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- image -->
@@ -168,6 +280,7 @@ transform-origin: center;
   </div>
   <div class="breakpoint" id="bp_1024" data-min-width="961" data-max-width="1024"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <span class="size_fixed grpelem placeholder" data-placeholder-for="u108367_content"><!-- placeholder node --></span>
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu31663"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu31663"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u31663"><!-- image -->
@@ -211,6 +324,7 @@ transform-origin: center;
   </div>
   <div class="breakpoint" id="bp_960" data-min-width="721" data-max-width="960"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <span class="size_fixed grpelem placeholder" data-placeholder-for="u108367_content"><!-- placeholder node --></span>
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu31663"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu31663"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u31663"><!-- image -->
@@ -289,6 +403,7 @@ transform-origin: center;
       <span class="toplinewhite grpelem placeholder" data-placeholder-for="u48955_content"><!-- placeholder node --></span>
       <span class="toplinewhite grpelem placeholder" data-placeholder-for="u48956_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u48957-6_content"><!-- placeholder node --></span>
+      <span class="size_fixed grpelem placeholder" data-placeholder-for="u108367_content"><!-- placeholder node --></span>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="pu37238_content"><!-- placeholder node --></span>
     </div>
@@ -326,6 +441,7 @@ transform-origin: center;
       <span class="toplinewhite grpelem placeholder" data-placeholder-for="u48955_content"><!-- placeholder node --></span>
       <span class="toplinewhite grpelem placeholder" data-placeholder-for="u48956_content"><!-- placeholder node --></span>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u48957-6_content"><!-- placeholder node --></span>
+      <span class="size_fixed grpelem placeholder" data-placeholder-for="u108367_content"><!-- placeholder node --></span>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="pu37238_content"><!-- placeholder node --></span>
     </div>
@@ -333,6 +449,13 @@ transform-origin: center;
     <span class="clearfix grpelem placeholder" data-placeholder-for="pu54298_content"><!-- placeholder node --></span>
    </div>
   </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
+</script>
   <!-- Other scripts -->
   <script type="text/javascript">
    // Decide whether to suppress missing file error or not based on preference setting
@@ -417,5 +540,15 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=7928878" type="text/javascript" async data-main="scripts/museconfig.js?crc=310584261" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  
+  <!--HTML Widget code-->
+  	
+		<script>
+		$( "#botonlogin" ).click(function(e) {
+		  if ($("#pass").val() == 'ViewCanonAtVivid') { e.preventDefault(); $('#overlaypass').hide(); $('.formLogin').hide(); }
+		  else  { e.preventDefault(); $('#err').replaceWith("<span id='err'>Wrong password! awkward.</span>"); } 
+		});
+		</script>
+
    </body>
 </html>

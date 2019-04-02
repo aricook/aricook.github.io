@@ -17,13 +17,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="shortcut icon" href="images/favicon.ico?crc=4173031967"/>
   <title>Western Sydney University</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4132064812"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=497250222"/>
-  <link rel="stylesheet" type="text/css" href="css/western-sydney-university.css?crc=4187424116" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=98466197"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=204839549"/>
+  <link rel="stylesheet" type="text/css" href="css/western-sydney-university.css?crc=361872208" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_a-master.css?crc=3824530138"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_western-sydney-university.css?crc=15038765" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_western-sydney-university.css?crc=401004602" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -33,6 +33,116 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <script src="https://webfonts.creativecloud.com/quicksand:n7:default.js" type="text/javascript"></script>
     <!--HTML Widget code-->
   
+		<style>
+		#overlaypass {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: #FFFFFF;
+			filter:alpha(opacity=50);
+			-moz-opacity:0.5;
+			-khtml-opacity: 0.5;
+			opacity: 1;
+			z-index: 9990000;
+			text-align:center;
+		}
+		.formLogin form{
+			width:95%;
+			max-width:250px;    
+			margin: 0 auto;	
+		}
+		.formLogin{
+			font: 95% Arial, Helvetica, sans-serif;
+			padding: 16px;
+			background: #F7F7F7;
+		}
+		.formLogin h1{
+			padding: 20px 0;
+			font-size: 140%;
+			font-weight: 300;
+			text-align: center;
+			color: #000000;
+		}
+		.formLogin input[type="text"],
+		.formLogin input[type="date"],
+		.formLogin input[type="datetime"],
+		.formLogin input[type="password"],
+		.formLogin input[type="number"],
+		.formLogin input[type="search"],
+		.formLogin input[type="time"],
+		.formLogin input[type="url"],
+		.formLogin textarea,
+		.formLogin select
+		{
+			-webkit-transition: all 0.30s ease-in-out;
+			-moz-transition: all 0.30s ease-in-out;
+			-ms-transition: all 0.30s ease-in-out;
+			-o-transition: all 0.30s ease-in-out;
+			outline: none;
+			box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			width: 100%;
+			background: #fff;
+			margin-bottom: 4%;
+			border: 1px solid #ccc;
+			padding: 3%;
+			color: #555;
+			font: 95% Arial, Helvetica, sans-serif;
+		}
+		.formLogin input[type="text"]:focus,
+		.formLogin input[type="date"]:focus,
+		.formLogin input[type="datetime"]:focus,
+		.formLogin input[type="password"]:focus,
+		.formLogin input[type="number"]:focus,
+		.formLogin input[type="search"]:focus,
+		.formLogin input[type="time"]:focus,
+		.formLogin input[type="url"]:focus,
+		.formLogin textarea:focus,
+		.formLogin select:focus
+		{
+			box-shadow: 0 0 5px #43D1AF;
+			padding: 3%;
+			border: 1px solid #43D1AF;
+		}
+		.formLogin input[type="submit"],
+		.formLogin input[type="button"]{
+			box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			width: 100%;
+			padding: 3%;
+			background: #000000;
+			border-bottom: 2px solid #000000;
+			border-top-style: none;
+			border-right-style: none;
+			border-left-style: none;   
+			color: #FFFFFF;
+		}
+		.formLogin input[type="submit"]:hover,
+		.formLogin input[type="button"]:hover{
+			background: #2EBC99;
+		}
+		#botonlogin, #pass{
+			font-size: 140%;	
+		}
+		#err{
+			color:#464646;
+		}
+		</style>
+		<div id="overlaypass" class="formLogin">
+			<form>
+			<h1>To view this case study please enter the password below. If you don't know the secret password, just drop me an email at hello@ariellecook.net</h1>
+				<input type="password" id="pass">
+				<input type="submit" id="botonlogin" value="View the case study">
+				<p style="margin-top: 30px;"><span id='err'></span></p>								
+				<div style='width:100%; text-align:center;font-size:10px;'><a target='_blank' href='http://responsive-muse.com/' title='Responsive Muse Widgets and Templates'>Powered by responsive-muse</a></div>				
+			</form>
+		</div>
+		
+
       <style>
 
         #page #u27570 {
@@ -161,6 +271,8 @@ transform-origin: center;
 
   <div class="breakpoint active" id="bp_infinity" data-min-width="961"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox" id="page"><!-- group -->
+    <div class="size_fixed grpelem shared_content" id="u108335" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u108335_content"><!-- custom html -->
+    </div>
     <div class="clearfix grpelem" id="ppu30165"><!-- column -->
      <div class="clearfix colelem" id="pu30165"><!-- group -->
       <div class="clip_frame grpelem" id="u30165" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter"><!-- image -->
@@ -470,6 +582,7 @@ transform-origin: center;
   </div>
   <div class="breakpoint" id="bp_960" data-min-width="461" data-max-width="960"><!-- responsive breakpoint node -->
    <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <span class="size_fixed grpelem placeholder" data-placeholder-for="u108335_content"><!-- placeholder node --></span>
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu30165"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu30165"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fluidWidthHeight" data-pintopage="page_fixedCenter" data-orig-id="u30165"><!-- image -->
@@ -701,6 +814,7 @@ transform-origin: center;
        </div>
        <span class="clip_frame grpelem placeholder" data-placeholder-for="u54254_content"><!-- placeholder node --></span>
       </div>
+      <span class="size_fixed grpelem placeholder" data-placeholder-for="u108335_content"><!-- placeholder node --></span>
      </div>
      <div class="clearfix colelem" id="pu30210"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u30210"><!-- image -->
@@ -863,7 +977,14 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   <script src="scripts/require.js?crc=7928878" type="text/javascript" async data-main="scripts/museconfig.js?crc=310584261" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
   
   <!--HTML Widget code-->
-  
+  	
+		<script>
+		$( "#botonlogin" ).click(function(e) {
+		  if ($("#pass").val() == 'ViewWesternSydneyUniversity') { e.preventDefault(); $('#overlaypass').hide(); $('.formLogin').hide(); }
+		  else  { e.preventDefault(); $('#err').replaceWith("<span id='err'>Wrong password! awkward.</span>"); } 
+		});
+		</script>
+
       <script>
         console.log("Back To Top Button (1.1) - MuseThemes");
       </script>
